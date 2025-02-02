@@ -1,0 +1,7 @@
+product_id,transaction_id,product_name,quantity,price
+1,1,ProductA,2,75
+2,2,ProductB,1,200
+3,3,ProductA,3,100
+4,4,ProductC,1,120
+5,5,ProductA,1,250
+6,6,ProductB,2,90
